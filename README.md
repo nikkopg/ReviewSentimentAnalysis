@@ -1,4 +1,4 @@
-# e-commerce Reviews Sentiment Analysis
+# E-commerce Reviews Sentiment Analysis
 
 Dataset source: https://www.kaggle.com/farhan999/tokopedia-product-reviews
 
